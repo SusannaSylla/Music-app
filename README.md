@@ -1,4 +1,4 @@
-# metube
+# Music-app
 
 ## Project setup
 ```
