@@ -41,12 +41,12 @@ export default {
         {
           title: 'Bring me back to life',
           artist: 'InfiNoise',
-          src: require('./assets/InfiNoise - Bring me back to life (Feat. DNAKM) [NCS Release].mp3')
+          src: require(__dirname + './assets/InfiNoise - Bring me back to life (Feat. DNAKM) [NCS Release].mp3')
         },
         {
           title: 'On & On',
           artist: 'Cartoon',
-          src: require('./assets/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3')
+          src: require(__dirname + './assets/Cartoon - On & On (feat. Daniel Levi) [NCS Release].mp3')
         }
       ],
       player: new Audio()
